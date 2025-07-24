@@ -42,20 +42,9 @@ A hardware project to efficiently drive two 12V, 5W LED bulbs with dual brightne
 
 ---
 
-## 📷 Preview (optional)
-
-> Include these if you have files:
-- Circuit Diagram
-- Breadboard setup photo
-- Oscilloscope waveform
-
----
-
 ## 📂 Files
 
-- `led_pwm_control.ino` – Arduino code for PWM switching
-- `report.pdf` – Project documentation and working explanation
-
+- `led_pwm_control.ino` – Arduino code for PWM switching`
 ---
 
 ## 🎯 Applications
